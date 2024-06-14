@@ -1,3 +1,2 @@
 # Seferify
-Seferify Çevreci Paylaşımlı Araç Kiralama Uygulaması
-Günümüz kullanıcı gereksinimlerine göre C# ile oluşturulmuş çevreci paylaşımlı araç kiralama uygulaması
+Günümüz Kullanıcı Gereksinimlerine Göre C# ile Oluşturulmuş Çevreci Paylaşımlı Araç Kiralama Uygulaması
